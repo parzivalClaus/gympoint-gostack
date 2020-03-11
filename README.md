@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="350" height="auto" src="https://raw.githubusercontent.com/parzivalClaus/gympoint-gostack/master/server/.github/logo-h.png">
+</p>
+
 
 
 # GymPoint - Gerenciador de Academia
